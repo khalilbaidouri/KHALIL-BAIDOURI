@@ -14,5 +14,5 @@ I'm a Computer Engineering student passionate about **Full-Stack Development**, 
 - 🔹 **Python ML experiments:** Neural network training and image dataset augmentation  
 
 ## Connect with Me
-- LinkedIn: [linkedin.com/in/khalilbaidouri](https://www.linkedin.com/in/khalilbaidouri)  
+- LinkedIn: [linkedin.com/in/khalilbaidouri](www.linkedin.com/in/khalil-baidouri)  
 - GitHub: [github.com/khalilbaidouri](https://github.com/khalilbaidouri)
