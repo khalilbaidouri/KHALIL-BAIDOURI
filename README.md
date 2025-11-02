@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Khalil%20Baidouri-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091862744544)
 
 ## About Me
-I'm a **Computer Engineering student** passionate about **Full-Stack Development**, **AI**, and **emerging technologies**. I enjoy turning ideas into real-world applications and constantly learning new frameworks and tools.
+I'm a **Computer Engineering student** passionate about **Full-Stack Development**, and **emerging technologies**. I enjoy turning ideas into real-world applications and constantly learning new frameworks and tools.
 ## Skills
 
 ### Languages
