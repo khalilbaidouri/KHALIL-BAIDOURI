@@ -30,11 +30,6 @@ I'm a **Computer Engineering student** passionate about **Full-Stack Development
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Projects
-- 🔹 **Gestion de Notes:** Java web app with Hibernate and JSP  
-- 🔹 **Intervention Management:** Spring Boot backend with React frontend  
-- 🔹 **Python ML Experiments:** Neural network training and image dataset augmentation  
-- 🔹 **Portfolio:** [portfolio-jciv.vercel.app](https://portfolio-jciv.vercel.app/)  
 
 ## Connect with Me
 - LinkedIn: [Khalil Baidouri](https://www.linkedin.com/in/khalil-baidouri)  
