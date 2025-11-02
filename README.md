@@ -35,3 +35,5 @@ I'm a **Computer Engineering student** passionate about **Full-Stack Development
 - LinkedIn: [Khalil Baidouri](https://www.linkedin.com/in/khalil-baidouri)  
 - Portfolio: [View Portfolio](https://portfolio-jciv.vercel.app/)  
 - GitHub: [github.com/khalilbaidouri](https://github.com/khalilbaidouri)
+- Instagram: [khalil baidouri](https://www.instagram.com/khalilbaidouri/)
+- Facebook: [khalil baidouri](https://www.facebook.com/profile.php?id=100091862744544)
