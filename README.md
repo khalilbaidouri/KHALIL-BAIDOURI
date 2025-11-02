@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Baidouri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalil-baidouri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=flat&logo=google-chrome)](https://portfolio-jciv.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-Khalil%20Baidouri-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/khalilbaidouri/)
+[![Facebook](https://img.shields.io/badge/Facebook-Khalil%20Baidouri-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091862744544)
 
 ## About Me
 I'm a **Computer Engineering student** passionate about **Full-Stack Development**, **AI**, and **emerging technologies**. I enjoy turning ideas into real-world applications and constantly learning new frameworks and tools.
